@@ -35,6 +35,12 @@
           "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.1/Informe_Plataformas_Toteat_Windows.zip",
           "sha256": "70404c4269591224b9092651a7eefc882cc616e786f8f9be908f495781870edd",
           "bytes": 15982971
+        },
+        "Mac": {
+          "nombre": "Informe_Plataformas_Toteat_Mac.zip",
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.1/Informe_Plataformas_Toteat_Mac.zip",
+          "sha256": "4736362feb666a80d673c288c9c41b787d4cbaddbcc1752113832bb0e5f12f9e",
+          "bytes": 14754536
         }
       }
     },
@@ -71,6 +77,12 @@
           "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/compras-v1.0.1/Cargador_Compras_Toteat_Windows.zip",
           "sha256": "8804345917a17b2be52d2fe504666a2aec26d756a0160386d7af580bfff0adab",
           "bytes": 15942744
+        },
+        "Mac": {
+          "nombre": "Cargador_Compras_Toteat_Mac.zip",
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/compras-v1.0.1/Cargador_Compras_Toteat_Mac.zip",
+          "sha256": "6f34ffdbc38a0d8425dda89d3c6ccfb7c478b9aa404fedc19e36384e2117aee8",
+          "bytes": 14709478
         }
       }
     },
@@ -86,6 +98,12 @@
           "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Windows.zip",
           "sha256": "4811a3c1ac0ece630d6a61e475a02b8bdcad1f2ca566b799ef774d53495ad16e",
           "bytes": 16031532
+        },
+        "Mac": {
+          "nombre": "Extractor_Cadena_Toteat_Mac.zip",
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Mac.zip",
+          "sha256": "5129c5f8c4b5da2811a16ea487bc944cf4da1ab782fd2edd45c6ace730059190",
+          "bytes": 14546570
         }
       }
     },
