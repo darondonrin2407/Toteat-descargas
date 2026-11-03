@@ -4,43 +4,43 @@
   "herramientas": {
     "exportador": {
       "titulo": "Exportador de Ventas Toteat",
-      "version": "2.4.1",
+      "version": "2.4.2",
       "fecha": "2026-11-03",
-      "notas": "Avisa al abrir cuando hay una versión nueva y ofrece abrir la página de descarga (solo lee el catálogo público; sin internet no hace nada).",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/exportador-v2.4.1",
+      "notas": "El ZIP vuelve a traer el tablero «Consolidado_Ventas_Toteat.html» para unir los reportes de varios locales.",
+      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/exportador-v2.4.2",
       "archivos": {
         "Windows": {
           "nombre": "Exportador_Ventas_Toteat_Windows.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/exportador-v2.4.1/Exportador_Ventas_Toteat_Windows.zip",
-          "sha256": "e827a7441efae40ba6e15a8012a2dcbd515f8628046cafffd9cb1b047849c302",
-          "bytes": 15952652
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/exportador-v2.4.2/Exportador_Ventas_Toteat_Windows.zip",
+          "sha256": "1364751ad1c2bc6f7f77ec2d1cbad3f7fde33994326bd92c6abbd2463abfe69e",
+          "bytes": 15966924
         },
         "Mac": {
           "nombre": "Exportador_Ventas_Toteat_Mac.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/exportador-v2.4.1/Exportador_Ventas_Toteat_Mac.zip",
-          "sha256": "9ce4043b39eccc8d2e809d3899042edb4e373a8fdf354cf6220c80162513f0e6",
-          "bytes": 14648780
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/exportador-v2.4.2/Exportador_Ventas_Toteat_Mac.zip",
+          "sha256": "7d6c84db0d386900abb6eab02c69ba442e2e788145855bcd3b7868e7fa02924a",
+          "bytes": 14736463
         }
       }
     },
     "plataformas": {
       "titulo": "Informe de Ventas por Plataforma",
-      "version": "2.1.1",
+      "version": "2.1.2",
       "fecha": "2026-11-03",
-      "notas": "Avisa al abrir cuando hay una versión nueva y ofrece abrir la página de descarga (solo lee el catálogo público; sin internet no hace nada).",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/plataformas-v2.1.1",
+      "notas": "El ZIP vuelve a traer el tablero «Consolidado_Plataformas_Toteat.html» para unir los informes de varios locales.",
+      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/plataformas-v2.1.2",
       "archivos": {
         "Windows": {
           "nombre": "Informe_Plataformas_Toteat_Windows.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.1/Informe_Plataformas_Toteat_Windows.zip",
-          "sha256": "70404c4269591224b9092651a7eefc882cc616e786f8f9be908f495781870edd",
-          "bytes": 15982971
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.2/Informe_Plataformas_Toteat_Windows.zip",
+          "sha256": "115faf30b10f0625f4893386dbfaa176ffcc6a93abf37c267839eba07f7e174a",
+          "bytes": 16001245
         },
         "Mac": {
           "nombre": "Informe_Plataformas_Toteat_Mac.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.1/Informe_Plataformas_Toteat_Mac.zip",
-          "sha256": "4736362feb666a80d673c288c9c41b787d4cbaddbcc1752113832bb0e5f12f9e",
-          "bytes": 14754536
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.2/Informe_Plataformas_Toteat_Mac.zip",
+          "sha256": "b2cb2110f9352b8c79672343838b3f9b3881e36eb28375d557828dc14c877e8a",
+          "bytes": 14772466
         }
       }
     },
@@ -104,66 +104,6 @@
           "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Mac.zip",
           "sha256": "5129c5f8c4b5da2811a16ea487bc944cf4da1ab782fd2edd45c6ace730059190",
           "bytes": 14546570
-        }
-      }
-    },
-    "diagnostico-ventas": {
-      "titulo": "Diagnóstico de Ventas (respuesta cruda)",
-      "version": "2026.10.22",
-      "fecha": "2026-11-03",
-      "notas": "",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/diagnostico-ventas-v2026.10.22",
-      "archivos": {
-        "Script": {
-          "nombre": "Diagnostico_Ventas_Toteat.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/diagnostico-ventas-v2026.10.22/Diagnostico_Ventas_Toteat.zip",
-          "sha256": "03e746c09812356c69665364ffaca3dcf98af38bf0b98e052ee47ad1bc2aa91c",
-          "bytes": 5667
-        }
-      }
-    },
-    "diagnostico-inventario": {
-      "titulo": "Diagnóstico de Inventario (respuesta cruda)",
-      "version": "2026.10.19",
-      "fecha": "2026-11-03",
-      "notas": "",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/diagnostico-inventario-v2026.10.19",
-      "archivos": {
-        "Script": {
-          "nombre": "Diagnostico_Inventario_Toteat.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/diagnostico-inventario-v2026.10.19/Diagnostico_Inventario_Toteat.zip",
-          "sha256": "aeb52a73980442de0ccd7c44dd84c14e29bbab1e03f6307cfb1c0da838325367",
-          "bytes": 6054
-        }
-      }
-    },
-    "extraer-menu": {
-      "titulo": "Extraer Menú",
-      "version": "2026.10.21",
-      "fecha": "2026-11-03",
-      "notas": "",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/extraer-menu-v2026.10.21",
-      "archivos": {
-        "Script": {
-          "nombre": "Extraer_Menu_Toteat.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/extraer-menu-v2026.10.21/Extraer_Menu_Toteat.zip",
-          "sha256": "c53b9bd7ed26b85bd1c91e4ccca854a90dcec9c3c16a0d11d6dfdb3cfd3126c8",
-          "bytes": 5992
-        }
-      }
-    },
-    "prueba-compras": {
-      "titulo": "Prueba de Compras (piloto, ambiente de pruebas)",
-      "version": "2026.10.20",
-      "fecha": "2026-11-03",
-      "notas": "",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/prueba-compras-v2026.10.20",
-      "archivos": {
-        "Script": {
-          "nombre": "Prueba_Compras_Toteat.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/prueba-compras-v2026.10.20/Prueba_Compras_Toteat.zip",
-          "sha256": "b60cec1cac6811dab3db4190c7394937a51779e221238abb506debe5f6aef9a9",
-          "bytes": 5759
         }
       }
     }
