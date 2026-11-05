@@ -1,6 +1,6 @@
 {
   "_nota": "Catálogo público de versiones. Lo leen los programas para avisar de versiones nuevas.",
-  "actualizado": "2026-11-03",
+  "actualizado": "2026-11-05",
   "herramientas": {
     "exportador": {
       "titulo": "Exportador de Ventas Toteat",
@@ -88,22 +88,22 @@
     },
     "cadena": {
       "titulo": "Extractor Cadena Toteat",
-      "version": "1.0.1",
-      "fecha": "2026-11-03",
-      "notas": "Avisa al abrir cuando hay una versión nueva y ofrece abrir la página de descarga (solo lee el catálogo público; sin internet no hace nada).",
-      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/cadena-v1.0.1",
+      "version": "1.0.2",
+      "fecha": "2026-11-05",
+      "notas": "Si Toteat rechaza una consulta, espera 60 s y reintenta hasta 2 veces antes de marcar error. Cada error muestra el código HTTP y lo que respondió Toteat (sin el token), y al final el registro lista cada quincena con error y su motivo. Las sedes que comparten usuario y token se consultan una tras otra para no superar el límite de ese token.",
+      "pagina": "https://github.com/darondonrin2407/toteat-descargas/releases/tag/cadena-v1.0.2",
       "archivos": {
         "Windows": {
           "nombre": "Extractor_Cadena_Toteat_Windows.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Windows.zip",
-          "sha256": "4811a3c1ac0ece630d6a61e475a02b8bdcad1f2ca566b799ef774d53495ad16e",
-          "bytes": 16031532
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.2/Extractor_Cadena_Toteat_Windows.zip",
+          "sha256": "d86fe8562ab663ca266c6620337ff17705014c8ef2d443679b7b545647764c7f",
+          "bytes": 16034309
         },
         "Mac": {
           "nombre": "Extractor_Cadena_Toteat_Mac.zip",
-          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Mac.zip",
-          "sha256": "5129c5f8c4b5da2811a16ea487bc944cf4da1ab782fd2edd45c6ace730059190",
-          "bytes": 14546570
+          "url": "https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.2/Extractor_Cadena_Toteat_Mac.zip",
+          "sha256": "f007993a167df5a15feaa38bddcaa9bcb4e9e334e2c6a0ca6fda1a52744e8949",
+          "bytes": 14547409
         }
       }
     }

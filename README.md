@@ -11,7 +11,7 @@ ya construidos: no tiene código, tokens ni datos de clientes. Se actualiza solo
 | **Informe de Ventas por Plataforma** | 2.1.2 | 2026-11-03 | [Windows](https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.2/Informe_Plataformas_Toteat_Windows.zip) · [Mac](https://github.com/darondonrin2407/toteat-descargas/releases/download/plataformas-v2.1.2/Informe_Plataformas_Toteat_Mac.zip) |
 | **Informe de Inventario Toteat** | 1.1.1 | 2026-11-03 | [Windows](https://github.com/darondonrin2407/toteat-descargas/releases/download/inventario-v1.1.1/Informe_Inventario_Toteat_Windows.zip) · [Mac](https://github.com/darondonrin2407/toteat-descargas/releases/download/inventario-v1.1.1/Informe_Inventario_Toteat_Mac.zip) |
 | **Cargador de Compras Toteat** | 1.0.1 | 2026-11-03 | [Windows](https://github.com/darondonrin2407/toteat-descargas/releases/download/compras-v1.0.1/Cargador_Compras_Toteat_Windows.zip) · [Mac](https://github.com/darondonrin2407/toteat-descargas/releases/download/compras-v1.0.1/Cargador_Compras_Toteat_Mac.zip) |
-| **Extractor Cadena Toteat** | 1.0.1 | 2026-11-03 | [Windows](https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Windows.zip) · [Mac](https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.1/Extractor_Cadena_Toteat_Mac.zip) |
+| **Extractor Cadena Toteat** | 1.0.2 | 2026-11-05 | [Windows](https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.2/Extractor_Cadena_Toteat_Windows.zip) · [Mac](https://github.com/darondonrin2407/toteat-descargas/releases/download/cadena-v1.0.2/Extractor_Cadena_Toteat_Mac.zip) |
 
 **Cómo instalar o actualizar:** descarga el ZIP de tu sistema, descomprímelo y reemplaza la versión anterior.
 Tus clientes y su configuración no se pierden: se guardan aparte en el computador
@@ -34,7 +34,7 @@ Compara la huella del ZIP descargado con la de esta tabla. Deben ser idénticas.
 | Informe_Inventario_Toteat_Mac.zip | `e5b72e30db4b061e6a725f89793709692c177dba7f9ce167987c8b4f74ad51a6` |
 | Cargador_Compras_Toteat_Windows.zip | `8804345917a17b2be52d2fe504666a2aec26d756a0160386d7af580bfff0adab` |
 | Cargador_Compras_Toteat_Mac.zip | `6f34ffdbc38a0d8425dda89d3c6ccfb7c478b9aa404fedc19e36384e2117aee8` |
-| Extractor_Cadena_Toteat_Windows.zip | `4811a3c1ac0ece630d6a61e475a02b8bdcad1f2ca566b799ef774d53495ad16e` |
-| Extractor_Cadena_Toteat_Mac.zip | `5129c5f8c4b5da2811a16ea487bc944cf4da1ab782fd2edd45c6ace730059190` |
+| Extractor_Cadena_Toteat_Windows.zip | `d86fe8562ab663ca266c6620337ff17705014c8ef2d443679b7b545647764c7f` |
+| Extractor_Cadena_Toteat_Mac.zip | `f007993a167df5a15feaa38bddcaa9bcb4e9e334e2c6a0ca6fda1a52744e8949` |
 
-Actualizado: 2026-11-03 · [versiones.json](versiones.json)
+Actualizado: 2026-11-05 · [versiones.json](versiones.json)
